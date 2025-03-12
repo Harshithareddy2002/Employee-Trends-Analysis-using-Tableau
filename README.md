@@ -90,6 +90,10 @@ The dataset consists of HR records with the following key attributes:
 - **Attrition Management**: Develop targeted retention plans based on key attrition factors.
 - **Compensation & Performance Insights**: Align pay structures with performance outcomes.
 
+
+
+Employees with Life Sciences degrees report the highest job satisfaction, though this may be influenced by their larger representation. HR professionals have the lowest satisfaction (2.556), possibly due to role-related challenges, while Technical and Marketing fields show similar satisfaction levels (~2.65), suggesting comparable work conditions and growth opportunities.
+
 ## Conclusion
 This Tableau dashboard provides HR professionals with actionable insights into employee trends, helping organizations make data-driven decisions for workforce management and planning. By leveraging interactive visualizations, users can efficiently explore employee data, identify key trends, and improve HR initiatives.
 
