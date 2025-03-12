@@ -1,15 +1,14 @@
 # Analyzing Employee Trends - Tableau Dashboard
----
+
 ## Project Overview
 In This project you can see an interactive Tableau dashboard designed to visualize and analyze HR data, providing insights into the employee base. The dashboard integrates data from various HR systems, allowing users to explore trends in employee demographics, engagement, attrition, compensation, and performance. The objective is to enable data-driven HR decisions through intuitive visual analytics.
----
 ## Key Objectives
 The primary goals of this dashboard are:
 - Analyze employee distribution across business units and roles.
 - Identify demographic trends (age, gender, education level, etc.).
 - Evaluate employee satisfaction and engagement trends.
 - Enable data-driven decision-making for HR strategies and initiatives.
----
+  
 ## Data Sources & Structure
 The dataset consists of HR records with the following key attributes:
 
