@@ -93,3 +93,8 @@ The dataset consists of HR records with the following key attributes:
 ## Conclusion
 This Tableau dashboard provides HR professionals with actionable insights into employee trends, helping organizations make data-driven decisions for workforce management and planning. By leveraging interactive visualizations, users can efficiently explore employee data, identify key trends, and improve HR initiatives.
 
+## Author
+👩‍💻 **K. Harshitha Reddy**  
+📧 harshithareddyk2002@gmail.com  
+  
+
