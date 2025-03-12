@@ -1,5 +1,5 @@
 # Analyzing Employee Trends - Tableau Dashboard
-
+---
 ## Project Overview
 In This project you can see an interactive Tableau dashboard designed to visualize and analyze HR data, providing insights into the employee base. The dashboard integrates data from various HR systems, allowing users to explore trends in employee demographics, engagement, attrition, compensation, and performance. The objective is to enable data-driven HR decisions through intuitive visual analytics.
 ---
@@ -84,7 +84,7 @@ The dataset consists of HR records with the following key attributes:
 4. Hover over charts to view detailed insights.
 5. Use comparison tools to analyze trends and correlations.
 
-![Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard.png)
 Employees with Life Sciences degrees report the highest job satisfaction, though this may be influenced by their larger representation. HR professionals have the lowest satisfaction (2.556), possibly due to role-related challenges, while Technical and Marketing fields show similar satisfaction levels (~2.65), suggesting comparable work conditions and growth opportunities.
 ---
 ## Potential Use Cases
