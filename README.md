@@ -75,7 +75,7 @@ The dataset consists of HR records with the following key attributes:
 - **Hover Tooltips**: Additional insights on hover over data points.
 - **Time-Series Analysis**: Allows tracking of trends over different time periods.
 - **Comparative Analysis**: Compare different employee groups based on selected parameters.
----
+  
 ## How to Use the Dashboard
 1. Open the Tableau Workbook (**Analyzing Employee Trends.twbx**).
 2. Navigate through different sheets/tabs for various analyses.
@@ -85,7 +85,7 @@ The dataset consists of HR records with the following key attributes:
 
 ![Dashboard](Dashboard.png)
 Employees with Life Sciences degrees report the highest job satisfaction, though this may be influenced by their larger representation. HR professionals have the lowest satisfaction (2.556), possibly due to role-related challenges, while Technical and Marketing fields show similar satisfaction levels (~2.65), suggesting comparable work conditions and growth opportunities.
----
+
 ## Potential Use Cases
 - **HR Strategy & Workforce Planning**: Identify hiring needs, skill gaps, and retention strategies.
 - **Employee Satisfaction & Engagement**: Understand factors impacting satisfaction and improve workplace culture.
